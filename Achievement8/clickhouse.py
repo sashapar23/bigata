@@ -1,6 +1,5 @@
 import tarantool
 import pandas as pd
-from clickhouse_driver import Client
 import pandahouse as ph
 
 # подключаемся к тарантулу
